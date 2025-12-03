@@ -72,6 +72,8 @@
 
 - **StreamVLN (2025)** – [paper](https://arxiv.org/pdf/2507.05240)  
 
+- **LION-FS (2025)** – [paper](https://arxiv.org/abs/2503.03663)  
+
 ---
 
 ## Benchmarks
