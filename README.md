@@ -29,6 +29,7 @@
 
 - **Eyes Wide Open / EyeWO (2024)** – [code](https://github.com/zhangyl4/EyeWO)  
 
+- **StreamChat (2025)** [paper](https://arxiv.org/pdf/2501.13468)
 ---
 
 ## Token & KV Compression
@@ -69,6 +70,8 @@
 
 - **LiveStar (2025)** – [paper](https://arxiv.org/abs/2511.05299v1)  
 
+- **StreamVLN (2025)** – [paper](https://arxiv.org/pdf/2507.05240)  
+
 ---
 
 ## Benchmarks
@@ -78,5 +81,13 @@
 - **OVO-Bench (2025)** – [code](https://github.com/JoeLeelyf/OVO-Bench)  
 
 - **StreamingBench (2025)** – [paper](https://arxiv.org/abs/2506.18472)  
+
+- **OmniMMI (2025)** – [paper](https://arxiv.org/pdf/2503.22952)  
+
+- **RTV-Bench (2025)** – [paper](https://arxiv.org/pdf/2505.02064)  
   
 - **VStream-QA (RVS) (2024)** – [paper](https://arxiv.org/abs/2406.08085)  
+
+- **StreamBench (2025)** – [code](https://github.com/hmxiong/StreamChat)
+
+- **StreamingCoT (2025)** - [paper](https://arxiv.org/pdf/2510.25332)
