@@ -60,7 +60,9 @@
 
 - **VideoLLM-online (2024)** – [paper](https://arxiv.org/abs/2406.11816v1)  
 
-- **MMDuet (2024)** – [paper](https://arxiv.org/abs/2411.17991)  
+- **MMDuet (2024)** – [paper](https://arxiv.org/abs/2411.17991)
+
+- **MMDuet2 (2025)** – [openreview](https://openreview.net/forum?id=rxQnMSNCUs)  
 
 - **Dispider (2025)** – [paper](https://arxiv.org/abs/2501.03218)  
 
@@ -73,6 +75,7 @@
 - **StreamVLN (2025)** – [paper](https://arxiv.org/pdf/2507.05240)  
 
 - **LION-FS (2025)** – [paper](https://arxiv.org/abs/2503.03663)  
+
 
 ---
 
@@ -93,3 +96,7 @@
 - **StreamBench (2025)** – [code](https://github.com/hmxiong/StreamChat)
 
 - **StreamingCoT (2025)** - [paper](https://arxiv.org/pdf/2510.25332)
+
+- **TV-Online** - [openreview](https://openreview.net/forum?id=gmpnSSiJt7&noteId=M9tDBT9g9B)
+
+- **ProactiveVideoQA** - [paper](https://arxiv.org/pdf/2507.09313v2)
