@@ -38,7 +38,8 @@ A curated list of research papers, models, and resources on **streaming**, **onl
 - **StreamChat** (2025) - [[Paper](https://arxiv.org/pdf/2501.13468)]
 - **StreamBridge** (2025) - [[Paper](https://arxiv.org/abs/2505.05467)]
 - **VITA1.5** (2025) - [[Code](https://github.com/VITA-MLLM/VITA)]
-
+- **CogStream** (2025) - [[paper](https://arxiv.org/pdf/2506.10516)]
+  
 ---
 
 ## ⚡ Token & KV Compression
