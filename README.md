@@ -89,6 +89,7 @@ A curated list of research papers, models, and resources on **streaming**, **onl
 - **StreamingCoT** (2025) - [[Paper](https://arxiv.org/pdf/2510.25332)]
 - **TV-Online** - [[OpenReview](https://openreview.net/forum?id=gmpnSSiJt7&noteId=M9tDBT9g9B)]
 - **ProactiveVideoQA** - [[Paper](https://arxiv.org/pdf/2507.09313v2)]
+- **SVBench** - [[Paper](https://arxiv.org/pdf/2502.10810)]
 
 ---
 
